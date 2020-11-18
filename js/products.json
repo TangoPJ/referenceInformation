@@ -1,0 +1,31 @@
+[{
+		"id": 0,
+		"title": "Текст заголовка 1",
+		"content": "<p>Содержимое модального окна 1</p>",
+		"footerButtons": [{
+			"class": "btn btn__ok",
+			"text": "ОK",
+			"handler": "modalHandlerOk"
+		}]
+	},
+	{
+		"id": 1,
+		"title": "Текст заголовка 2",
+		"content": "<p>Содержимое модального окна 2</p>",
+		"footerButtons": [{
+			"class": "btn btn__ok",
+			"text": "ОK",
+			"handler": "modalHandlerOk"
+		}]
+	},
+	{
+		"id": 2,
+		"title": "Текст заголовка 3",
+		"content": "<p>Содержимое модального окна 3</p>",
+		"footerButtons": [{
+			"class": "btn btn__ok",
+			"text": "ОK",
+			"handler": "modalHandlerOk"
+		}]
+	}
+]
